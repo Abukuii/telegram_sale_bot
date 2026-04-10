@@ -12,7 +12,7 @@ def lessons_menu():
 
         [
             InlineKeyboardButton("📘 3-dars Krill Lotin", callback_data="lesson3"),
-            InlineKeyboardButton("📘 4-dars Yosh chegarasi", callback_data="lesson3")
+            InlineKeyboardButton("📘 4-dars Yosh chegarasi", callback_data="lesson4")
         ]
 
     ]
